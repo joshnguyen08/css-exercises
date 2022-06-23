@@ -1,0 +1,16 @@
+.turtle {
+    background: lightpink;
+    font-family: Verdana, sans-serif, DejaVu Sans;
+}
+#puppet{
+    color: blue;
+    font-size: 36px;
+}
+.baby{
+    font-size: 24px;
+}
+#spider{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
